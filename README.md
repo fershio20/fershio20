@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @fershio20
 - 👀 I’m interested in Videogames, series, movies, indie music and more.
+- 💻 I'm UI/UX Designer and developer.
 - 🌱 I’m currently learning ReactSJ, SASS, React Native
 - 📫 How to reach me fjvera.py@gmail.com
 
